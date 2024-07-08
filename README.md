@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to my Portfolio
 
 <!--
 **Anirudh1Reddy/Anirudh1Reddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,15 +16,14 @@ Here are some ideas to get you started:
 -->
 
 I'm Anirudh Reddy and I am a computer science major at California State University, Northridge. While I am primarily skilled in User Experience design and Software Engineering, I am currently learning about artificial intelligence and machine learning and its place in business processes that continue to increase employee functions, productivity, and their effect on customers. I am looking to develop this interest in AI and hopefully further expand my knowledge into different sectors and industries, typically pertaining towards the arts, robotics, mathematics, and possibly more.  
-  
-Check out some of my notable personal and academic projects:  
-  
-## Table of Contents
-- [Spam Detector - Naive Bayes and Support Vector Machine Choosing Algorithms](#Spam-Detector---Naive-Bayes-and-Support-Vector-Machine-Choosing-Algorithms)
-- [Customer-To-Customer E-Commerce Site](#Customer-To-Customer-E-Commerce-Site)
-- [MP3 Player](#MP3-Player)
-- [Customizable Minesweeper](#how-to-create-new-repository)
-- [Self-Learning Country Guessing Game](#how-to-create-new-repository)
+    
+## Notable Personal and Academic Projects:  
+- Spam Detector - Naive Bayes and Support Vector Machine Choosing Algorithms  
+- Customer-To-Customer E-Commerce Site  
+- MP3 Player  
+- Customizable Minesweeper  
+
+Viewable from my main page and repositories section.
 
 ## Contact Info
   
