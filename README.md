@@ -27,6 +27,6 @@ Viewable from my main page and repositories section.
 
 ## Contact Info
   
-LinkedIn: www.linkedin.com/in/anirudh-1-reddy  
+LinkedIn: www.linkedin.com/in/reddy-anirudh  
 Gmail: anirudh1reddy@gmail.com
 
